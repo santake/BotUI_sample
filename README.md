@@ -1,7 +1,8 @@
-# BotUI_sample
+# Simple test of Bot UI #
 
-Simple test of Bot UI
+Open src/index.html from your web browser.
 
-Documents:
+
+## BotUI Document ##
 https://docs.botui.org/
 
