@@ -1,3 +1,20 @@
 body {
-  font-family: Tahoma, Arial, Sans-Serif
+  font-family: Tahoma, Arial, Sans-Serif;
+  background-color: #e0efef
 }
+
+.botui-container,
+.botui-messages-container {
+  background: transparent;
+}
+
+
+/* base (bot) */
+.botui-message-content.text {
+  background-color: #ffffff;
+}
+/* human */
+.human.botui-message-content.text {
+  background-color: #0f3faf;
+}
+
